@@ -1,6 +1,6 @@
 # Проектная работа "WebLarek. Плохой сервер.", спринт 17
 
-https://github.com/SinitsaBogdan/bad-server/tree/main?tab=readme-ov-file
+https://github.com/SinitsaBogdan/bad-server
 
 ## Подготовка к работе
 1. Склонировать репозиторий
